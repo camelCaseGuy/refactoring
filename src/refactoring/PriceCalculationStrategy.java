@@ -1,4 +1,4 @@
-package refactoring;
+package src.refactoring;
 
 // super class, create three children new release price calculation strategy, etc...
 public class PriceCalculationStrategy {

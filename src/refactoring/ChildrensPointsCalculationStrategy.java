@@ -1,11 +1,12 @@
-package refactoring;
+package src.refactoring;
 
-public class RegularMoviePointsCalculationStrategy extends PointsCalculationStrategy {
+public class ChildrensPointsCalculationStrategy extends PointsCalculationStrategy {
     private int _points;
 
-    RegularMoviePointsCalculationStrategy(int daysRented) {
+    public ChildrensPointsCalculationStrategy(int daysRented) {
         setPoints(daysRented);
     }
+
     @Override
     public int getPoints(){
         return _points;

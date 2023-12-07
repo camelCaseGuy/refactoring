@@ -1,4 +1,4 @@
-package refactoring;
+package src.refactoring;
 
 // migrate to regularMovieStrategy
 public class RegularMovie {

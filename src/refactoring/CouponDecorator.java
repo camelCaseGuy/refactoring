@@ -1,4 +1,4 @@
-package refactoring;
+package src.refactoring;
 
 public abstract class CouponDecorator implements Coupon {
 	protected Coupon decoratedCoupon;

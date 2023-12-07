@@ -1,4 +1,4 @@
-package refactoring;
+package src.refactoring;
 // NOT USED
 public class NewReleaseMovie extends Movie {
 

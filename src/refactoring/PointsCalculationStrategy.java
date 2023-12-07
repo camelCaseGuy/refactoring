@@ -1,4 +1,4 @@
-package refactoring;
+package src.refactoring;
 
 public class PointsCalculationStrategy {
     private int _points;

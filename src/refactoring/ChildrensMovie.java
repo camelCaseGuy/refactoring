@@ -1,4 +1,4 @@
-package refactoring;
+package src.refactoring;
 
 public class ChildrensMovie extends Movie {
   
